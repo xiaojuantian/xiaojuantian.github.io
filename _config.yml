@@ -22,10 +22,10 @@ description: Stay Hungry, Stay Foolish
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About Me: "Machine Learning Engineer, She/Her"
-  Open Learning: "openlearning"
-  Projects: "projects"
+# navbar-links:
+#   About Me: "Machine Learning Engineer, She/Her"
+#   Open Learning: "openlearning"
+#   Projects: "projects"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
