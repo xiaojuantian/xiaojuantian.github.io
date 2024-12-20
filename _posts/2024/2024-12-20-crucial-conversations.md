@@ -2,6 +2,7 @@
 * Stakes are high.
 * Involve conflicts.
 * Emotinal reasons.
+
 # How?
 * Start from heart.
 * Look to learn. Look for signals when conversations are not safe.
